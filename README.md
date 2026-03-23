@@ -1,22 +1,20 @@
-# Sistema de Cadastro de Clientes em Python
+# Sistema de Cadastro de Clientes
 
-Projeto desenvolvido com foco em boas práticas de organização de código e separação de responsabilidades.
+## 📌 Descrição
+Sistema desenvolvido em Python com arquitetura modular...
 
-## Funcionalidades
-- Cadastro de clientes
-- Listagem de clientes
-- Busca por CPF
-- Remoção de clientes
-- Persistência em JSON
+## 🚀 Funcionalidades
+- Cadastro
+- Edição
+- Validação CPF
+- Logs
 
-## Estrutura
-- models → representação dos dados
+## 🧠 Arquitetura
+- models → entidades
 - services → regras de negócio
-- utils → persistência
-- main → interface do sistema
+- utils → suporte
 
-## Tecnologias
-- Python 3
-
-## Como executar
+## ▶️ Como rodar
 python main.py
+
+## 📸 Demonstração
